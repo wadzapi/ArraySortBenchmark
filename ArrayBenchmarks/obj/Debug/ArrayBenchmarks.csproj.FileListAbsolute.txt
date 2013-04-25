@@ -1,0 +1,33 @@
+C:\Documents and Settings\MuuuZebr\Мои документы\Visual Studio 2008\Projects\ArrayBenchmarks\ArrayBenchmarks\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\MuuuZebr\Мои документы\Visual Studio 2008\Projects\ArrayBenchmarks\ArrayBenchmarks\obj\Debug\ArrayBenchmarks.Properties.Resources.resources
+C:\Documents and Settings\MuuuZebr\Мои документы\Visual Studio 2008\Projects\ArrayBenchmarks\ArrayBenchmarks\obj\Debug\ArrayBenchmarks.csproj.GenerateResource.Cache
+C:\Documents and Settings\MuuuZebr\Мои документы\Visual Studio 2008\Projects\ArrayBenchmarks\ArrayBenchmarks\bin\Debug\ArrayBenchmarks.exe
+C:\Documents and Settings\MuuuZebr\Мои документы\Visual Studio 2008\Projects\ArrayBenchmarks\ArrayBenchmarks\bin\Debug\ArrayBenchmarks.pdb
+C:\Documents and Settings\MuuuZebr\Мои документы\Visual Studio 2008\Projects\ArrayBenchmarks\ArrayBenchmarks\obj\Debug\ArrayBenchmarks.exe
+C:\Documents and Settings\MuuuZebr\Мои документы\Visual Studio 2008\Projects\ArrayBenchmarks\ArrayBenchmarks\obj\Debug\ArrayBenchmarks.pdb
+G:\TEMP\ArrayBenchmarks\ArrayBenchmarks\obj\Debug\ArrayBenchmarks.exe
+G:\TEMP\ArrayBenchmarks\ArrayBenchmarks\obj\Debug\ArrayBenchmarks.pdb
+G:\TEMP\ArrayBenchmarks\ArrayBenchmarks\obj\Debug\ResolveAssemblyReference.cache
+G:\TEMP\ArrayBenchmarks\ArrayBenchmarks\obj\Debug\ArrayBenchmarks.Properties.Resources.resources
+G:\TEMP\ArrayBenchmarks\ArrayBenchmarks\obj\Debug\ArrayBenchmarks.csproj.GenerateResource.Cache
+G:\TEMP\ArrayBenchmarks\ArrayBenchmarks\bin\Debug\ArrayBenchmarks.exe
+G:\TEMP\ArrayBenchmarks\ArrayBenchmarks\bin\Debug\ArrayBenchmarks.pdb
+G:\bACKuP\ProgrBackup001\ArrSortSingleTest\012-ArrayBenchmarks\ArrayBenchmarks\ArrayBenchmarks\obj\Debug\ArrayBenchmarks.exe
+G:\bACKuP\ProgrBackup001\ArrSortSingleTest\012-ArrayBenchmarks\ArrayBenchmarks\ArrayBenchmarks\obj\Debug\ArrayBenchmarks.pdb
+C:\Documents and Settings\MuuuZebr\Мои документы\Visual Studio 2008\Projects\ArrayBenchmarks\ArrayBenchmarks\ArrayBenchmarks\obj\Debug\ArrayBenchmarks.exe
+C:\Documents and Settings\MuuuZebr\Мои документы\Visual Studio 2008\Projects\ArrayBenchmarks\ArrayBenchmarks\ArrayBenchmarks\obj\Debug\ArrayBenchmarks.pdb
+C:\Documents and Settings\MuuuZebr\Мои документы\Visual Studio 2008\Projects\ArrayBenchmarks\ArrayBenchmarks\ArrayBenchmarks\bin\Debug\ArrayBenchmarks.exe
+C:\Documents and Settings\MuuuZebr\Мои документы\Visual Studio 2008\Projects\ArrayBenchmarks\ArrayBenchmarks\ArrayBenchmarks\bin\Debug\ArrayBenchmarks.pdb
+C:\Documents and Settings\MuuuZebr\Мои документы\Visual Studio 2008\Projects\ArrayBenchmarks\ArrayBenchmarks\ArrayBenchmarks\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\MuuuZebr\Мои документы\Visual Studio 2008\Projects\ArrayBenchmarks\ArrayBenchmarks\ArrayBenchmarks\obj\Debug\ArrayBenchmarks.Form1.resources
+C:\Documents and Settings\MuuuZebr\Мои документы\Visual Studio 2008\Projects\ArrayBenchmarks\ArrayBenchmarks\ArrayBenchmarks\obj\Debug\ArrayBenchmarks.Properties.Resources.resources
+C:\Documents and Settings\MuuuZebr\Мои документы\Visual Studio 2008\Projects\ArrayBenchmarks\ArrayBenchmarks\ArrayBenchmarks\obj\Debug\ArrayBenchmarks.csproj.GenerateResource.Cache
+C:\Documents and Settings\MuuuZebr\Мои документы\Visual Studio 2008\Projects\1\ArrayBenchmarks\ArrayBenchmarks\obj\Debug\ArrayBenchmarks.exe
+C:\Documents and Settings\MuuuZebr\Мои документы\Visual Studio 2008\Projects\1\ArrayBenchmarks\ArrayBenchmarks\obj\Debug\ArrayBenchmarks.pdb
+C:\Documents and Settings\MuuuZebr\Мои документы\Visual Studio 2008\Projects\1\ArrayBenchmarks\ArrayBenchmarks\bin\Debug\ArrayBenchmarks.exe
+C:\Documents and Settings\MuuuZebr\Мои документы\Visual Studio 2008\Projects\1\ArrayBenchmarks\ArrayBenchmarks\bin\Debug\ArrayBenchmarks.pdb
+C:\Documents and Settings\MuuuZebr\Мои документы\Visual Studio 2008\Projects\1\ArrayBenchmarks\ArrayBenchmarks\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\MuuuZebr\Мои документы\Visual Studio 2008\Projects\1\ArrayBenchmarks\ArrayBenchmarks\obj\Debug\ArrayBenchmarks.Form1.resources
+C:\Documents and Settings\MuuuZebr\Мои документы\Visual Studio 2008\Projects\1\ArrayBenchmarks\ArrayBenchmarks\obj\Debug\ArrayBenchmarks.Properties.Resources.resources
+C:\Documents and Settings\MuuuZebr\Мои документы\Visual Studio 2008\Projects\1\ArrayBenchmarks\ArrayBenchmarks\obj\Debug\ArrayBenchmarks.csproj.GenerateResource.Cache
+C:\Documents and Settings\MuuuZebr\Мои документы\Visual Studio 2008\Projects\ArrayBenchmarks\ArrayBenchmarks\obj\Debug\ArrayBenchmarks.BenchForm.resources

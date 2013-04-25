@@ -1,0 +1,16 @@
+C:\Documents and Settings\MuuuZebr\Мои документы\Visual Studio 2008\Projects\ArrayBenchmarks\ArrayBenchmarks\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\MuuuZebr\Мои документы\Visual Studio 2008\Projects\ArrayBenchmarks\ArrayBenchmarks\obj\Release\ArrayBenchmarks.Properties.Resources.resources
+C:\Documents and Settings\MuuuZebr\Мои документы\Visual Studio 2008\Projects\ArrayBenchmarks\ArrayBenchmarks\obj\Release\ArrayBenchmarks.csproj.GenerateResource.Cache
+C:\Documents and Settings\MuuuZebr\Мои документы\Visual Studio 2008\Projects\ArrayBenchmarks\ArrayBenchmarks\bin\Release\ArrayBenchmarks.exe
+C:\Documents and Settings\MuuuZebr\Мои документы\Visual Studio 2008\Projects\ArrayBenchmarks\ArrayBenchmarks\bin\Release\ArrayBenchmarks.pdb
+C:\Documents and Settings\MuuuZebr\Мои документы\Visual Studio 2008\Projects\ArrayBenchmarks\ArrayBenchmarks\obj\Release\ArrayBenchmarks.exe
+C:\Documents and Settings\MuuuZebr\Мои документы\Visual Studio 2008\Projects\ArrayBenchmarks\ArrayBenchmarks\obj\Release\ArrayBenchmarks.pdb
+C:\Documents and Settings\MuuuZebr\Мои документы\Visual Studio 2008\Projects\ArrayBenchmarks\ArrayBenchmarks\obj\Release\ArrayBenchmarks.BenchForm.resources
+I:\ПЯВУ\ArrayBenchmarksMultiThread\ArrayBenchmarks\ArrayBenchmarks\obj\Release\ArrayBenchmarks.exe
+I:\ПЯВУ\ArrayBenchmarksMultiThread\ArrayBenchmarks\ArrayBenchmarks\obj\Release\ArrayBenchmarks.pdb
+I:\ПЯВУ\ArrayBenchmarksMultiThread\ArrayBenchmarks\ArrayBenchmarks\bin\Release\ArrayBenchmarks.exe
+I:\ПЯВУ\ArrayBenchmarksMultiThread\ArrayBenchmarks\ArrayBenchmarks\bin\Release\ArrayBenchmarks.pdb
+I:\ПЯВУ\ArrayBenchmarksMultiThread\ArrayBenchmarks\ArrayBenchmarks\obj\Release\ResolveAssemblyReference.cache
+I:\ПЯВУ\ArrayBenchmarksMultiThread\ArrayBenchmarks\ArrayBenchmarks\obj\Release\ArrayBenchmarks.BenchForm.resources
+I:\ПЯВУ\ArrayBenchmarksMultiThread\ArrayBenchmarks\ArrayBenchmarks\obj\Release\ArrayBenchmarks.Properties.Resources.resources
+I:\ПЯВУ\ArrayBenchmarksMultiThread\ArrayBenchmarks\ArrayBenchmarks\obj\Release\ArrayBenchmarks.csproj.GenerateResource.Cache
